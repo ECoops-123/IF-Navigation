@@ -4,7 +4,7 @@ This repository is a temporary Github for modifying the ILS system within Infini
 
 ---
 
-THe format to edit the ILS can be seen in the link below.
+The format to edit the ILS can be seen in the link below.
 
 
 https://developer.x-plane.com/wp-content/uploads/2015/11/XP-NAV810-Spec.pdf
