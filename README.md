@@ -1,6 +1,6 @@
 # IF-Navigation
 
-This repository is a temporary Github for modifying the ILS system within Infinite Flight, and is to be be used by Reviewers only.
+This repository is the system used for modifying the ILS system within Infinite Flight, and is to be be used by Reviewers only.
 
 ---
 
